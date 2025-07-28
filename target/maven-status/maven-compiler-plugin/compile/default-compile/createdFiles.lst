@@ -1,0 +1,12 @@
+com\example\inventarioapi\repository\ProdutoRepository.class
+com\example\inventarioapi\InventarioApiApplication.class
+com\example\inventarioapi\model\Produto.class
+com\example\inventarioapi\dto\ProdutoRequestDTO.class
+com\example\inventarioapi\exception\ResourceNotFoundException.class
+com\example\inventarioapi\mapper\ProdutoMapper.class
+com\example\inventarioapi\service\ProdutoService.class
+com\example\inventarioapi\mapper\ProdutoMapperImpl.class
+com\example\inventarioapi\controller\ProdutoController.class
+com\example\inventarioapi\exception\ErrorDetails.class
+com\example\inventarioapi\dto\ProdutoResponseDTO.class
+com\example\inventarioapi\exception\GlobalExceptionHandler.class
