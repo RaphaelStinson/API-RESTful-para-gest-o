@@ -1,5 +1,9 @@
 # API RESTful de Gestão de Inventário
 
+<p align="center">
+<img alt="Imagem de CriptoApp" width="300px" src="https://imgur.com/gallery/java-u3IYbhR#FVYfRBJ">
+</p>
+
 Esta é uma API RESTful desenvolvida com o ecossistema Spring Boot para a gestão de um inventário de produtos. A aplicação permite realizar operações CRUD (Criar, Ler, Atualizar, Apagar) de forma completa, seguindo as melhores práticas de desenvolvimento de microsserviços, como o uso de DTOs (Data Transfer Objects) para desacoplar a API da camada de persistência.
 
 ---
